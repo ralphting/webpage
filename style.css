@@ -1,0 +1,25 @@
+body {
+    background-color: #CBE4DE;
+}
+
+hr {
+    border-color: #0E8388;
+    border-style: none;
+    border-top-style: solid;
+}
+
+h1 {
+    color: #2C3333;
+}
+
+h2 {
+    color: #2C3333;
+}
+
+h3 {
+    color: #2C3333;
+}
+
+img {
+    height: 150px
+}
