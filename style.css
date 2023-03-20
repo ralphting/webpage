@@ -1,5 +1,7 @@
 body {
     background-color: #CBE4DE;
+    text-align: center;
+    font-family: sans-serif;
 }
 
 hr {
@@ -22,6 +24,7 @@ h3 {
 
 .top-container {
     background-color: #CBE4DE;
+    position: relative;
 }
 
 .middle-container {
@@ -32,8 +35,19 @@ h3 {
 
 }
 
-.cloud {
+.bio {
+    width: 500px;
+    margin: auto;
+}
 
+.top-cloud {
+    position: absolute;
+    right: 35%;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 30%;
 }
 
 .mountain {
