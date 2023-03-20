@@ -1,7 +1,7 @@
 body {
     background-color: #CBE4DE;
     text-align: center;
-    font-family: sans-serif;
+    font-family: Helvetica, Arial, sans-serif;
 }
 
 hr {
@@ -41,8 +41,9 @@ h3 {
 }
 
 .top-cloud {
-    position: absolute;
-    right: 35%;
+    position: relative;
+    left: 60%;
+    display: block;
 }
 
 .bottom-cloud {
