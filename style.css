@@ -1,11 +1,11 @@
 body {
-    background-color: #CBE4DE;
+    background-color: #CCD5AE;
     text-align: center;
     font-family: Helvetica, Arial, sans-serif;
 }
 
 hr {
-    border-color: #0E8388;
+    border-color: #E9EDC9;
     border-style: none;
     border-top-style: solid;
 }
@@ -28,17 +28,19 @@ h3 {
 }
 
 .top-container {
-    background-color: #CBE4DE;
+    background-color: #CCD5AE;
     position: relative;
 }
 
 .electrical-container {
+    background-color: #FEFAE0;
     width: 800px;
     margin: auto;
 }
 
 .software-container {
-    width: 500px;
+    background-color: #FEFAE0;
+    width: 800px;
     margin: auto;
 }
 
@@ -66,9 +68,11 @@ h3 {
     position: relative;
     left: 60%;
     display: block;
+    height: 100px;
 }
 
 .bottom-cloud {
     position: absolute;
-    left: 30%;
+    left: 35%;
+    height: 100px;
 }
